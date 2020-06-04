@@ -1,6 +1,8 @@
 :root {
     --title-color: #322153;
     --primary-color: #34cb79;
+    --secundary-color: #f0f0f5;
+    
 
 
 }
@@ -13,7 +15,7 @@
 
 html{
     font-family: 'Roboto', sans-serif;
-    background-color: #c2dae9;
+    background-color: #b9acf1af;
 }
 
 body {

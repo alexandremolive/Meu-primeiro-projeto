@@ -18,6 +18,10 @@
         align-items: center;
         
     }
+#page-search-results {
+    grid-template-columns: 1fr;
+
+}
 }
 @media (min-width: 1700px) {
     #page-home {
