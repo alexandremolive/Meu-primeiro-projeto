@@ -88,3 +88,17 @@
 
 
 }
+/* 
+isto é para o modal point created
+*/
+#modal.point .content {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+
+}
+#modal.point h1 {
+    color: white;
+    margin-top: 32px;
+
+}
