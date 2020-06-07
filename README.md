@@ -9,7 +9,7 @@ Rocketseat
 O projeto Ecoleta foi apresentado como tema devido ao dia do Meio Ambiente. 
 A aplicação apresenta uma solução para as pessoas que desejam procurar pontos de descarte ecológicos para materias como:
 Papel e papelão, pilhas, aparelhos eletrônicos, oléo vegetal, entre outros.
-Além disto o usuario pode contar também com uma página para cadastrar novos pontos de descarte. </br>
+Além disto o usuário poderá contar também com uma página para cadastrar novos pontos de descarte. </br>
     Front-End</br>
     
     HTML
